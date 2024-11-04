@@ -7,3 +7,4 @@ Technologies Used ~
 3. Postgresql Database
 4. Hibernate ORM framework
 5. Spring MVC
+6. Thymeleaf Template Engine
